@@ -12,4 +12,16 @@ Nitro is an easy to use software to make your own nitro generator. NOTE: The cod
 6. Create a new secret by putting the key as *token* and the value as your bot's token. ![image](https://user-images.githubusercontent.com/89333014/161684815-2695323c-129a-4803-b584-a322cfac9532.png)
 7. Click on Add new secret and your bot should be good to go.
 
+**How to get Bot token**
+1. Go to https://discord.com/developers/applications and sign in with your discord account if not signed in.
+2. Click on New Application ![image](https://user-images.githubusercontent.com/89333014/161685176-6f358322-7382-4f09-8054-18309dcba4ef.png)
+3. Enter your Bot name and click Create.
+4. Customize your bot with a profile picture and an about me section.
+5. Go to bot ![image](https://user-images.githubusercontent.com/89333014/161686078-19d0979a-3ed3-4ddd-9b15-6ab84d84d619.png) and click Add Bot ![image](https://user-images.githubusercontent.com/89333014/161686249-e20b3e54-2681-4936-9343-a782ecbd5277.png).
+6. You should be on a page like this ![image](https://user-images.githubusercontent.com/89333014/161686395-d45659ec-4e91-45fd-b48d-0760fd1fdfd8.png)
+7. Click on reset token. Once you have the token copied paste it in the repl as shown in the How to Use Section.
+
+
+
+
 
