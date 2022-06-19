@@ -1,9 +1,9 @@
-# nitro
+# Nitro
 A template for creating your own discord nitro gen bot.
 
 Nitro is an easy to use software to make your own nitro generator. NOTE: The codes generated will not always work. It is very rare to get a working code as the bot randomly generates codes with random letter and numbers.
 
-**How to Use**
+## How to Use
 1. Go to replit.com. Create an account. 
 2. Use this link to open the project https://replit.com/@VibhavBhalla/Nitro-1?v=1
 3. Click on Fork Repl ![image](https://user-images.githubusercontent.com/89333014/161684114-d75b9587-c419-4dad-9eef-5477c7565a13.png). This creates a duplicate of the project for your personal use.
@@ -12,7 +12,7 @@ Nitro is an easy to use software to make your own nitro generator. NOTE: The cod
 6. Create a new secret by putting the key as *token* and the value as your bot's token. ![image](https://user-images.githubusercontent.com/89333014/161684815-2695323c-129a-4803-b584-a322cfac9532.png)
 7. Click on Add new secret and your bot should be good to go.
 
-**How to get Bot token**
+## How to get Bot token
 1. Go to https://discord.com/developers/applications and sign in with your discord account if not signed in.
 2. Click on New Application ![image](https://user-images.githubusercontent.com/89333014/161685176-6f358322-7382-4f09-8054-18309dcba4ef.png)
 3. Enter your Bot name and click Create.
